@@ -1,1 +1,1 @@
-"# QnAProject" 
+# QnAProject
