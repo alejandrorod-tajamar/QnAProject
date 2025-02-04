@@ -1,0 +1,315 @@
+* Nintendo 3DS
+_For the Nintendo 3DS portal, see_ [_Portal:Nintendo 3DS_](https://nintendo.fandom.com/wiki/Portal:Nintendo_3DS)
+
+The Nintendo 3DS ( JP Japanese: ニンテンドー3DS Romaji : Nintendō Surī Dī Esu ) (also called 3DS or N3DS ) is an eighth generation Nintendo video game handheld released on February 26, 2011 in Japan, on March 25, 2011 in Europe and UK, on March 27, 2011 in North America and Canada, and on March 31, 2011 in Australia. It competed with the PlayStation Vita throughout its lifespan.
+
+It succeeds the first [Nintendo DS](https://nintendo.fandom.com/wiki/Nintendo_DS) line of systems, which includes the original Nintendo DS, [Nintendo DS Lite](https://nintendo.fandom.com/wiki/Nintendo_DS_Lite), [Nintendo DSi](https://nintendo.fandom.com/wiki/Nintendo_DSi), and [Nintendo DSi XL](https://nintendo.fandom.com/wiki/Nintendo_DSi_XL). One of the most noteworthy features of the handheld is the ability of the upper screen to display 3D without the need for glasses in a technique known as autostereoscopy.
+
+It is backwards compatible with Nintendo DS and Nintendo DSi games (though they are not displayed in 3D), but not Game Boy Advance games, as it lacks a designed slot like the DSi and the DSi XL. It also cannot play a few _DS_ games that require the _GBA_ slot like [_Guitar Hero: On Tour_](https://nintendo.fandom.com/wiki/Guitar_Hero:_On_Tour). However, ten free _GBA_ and ten free [NES](https://nintendo.fandom.com/wiki/Nintendo_Entertainment_System) games were added to the [eShop](https://nintendo.fandom.com/wiki/Nintendo_eShop) only available to those who bought a _3DS_ before the August 12, 2011 price drop.
+
+The system has motion and gyroscopic detection for interactivity with the games and apps that use movement of the system, and features a new analog circle control, referred to by Nintendo as a 'Circle Pad', a first for a Nintendo handheld.
+
+As with the DSi, the _3DS_ has a camera function. However, there are two outer camera lenses, enabling users to take pictures and videos and view them in 3D.
+
+The system is also able to provide optimal comfort levels, as shown by the 3D depth slider that adjusts how much depth the 3D has or turns the 3D off.
+
+There is also an adjustable telescopic stylus, which fits in the left side of the card slot like the original _DS_ and can be adjusted in a length of up to 3.94 inches long.
+
+While the [Nintendo Switch](https://nintendo.fandom.com/wiki/Nintendo_Switch) displaced the [Wii U](https://nintendo.fandom.com/wiki/Wii_U) as Nintendo's primary home console in terms of production and distribution, Nintendo executives affirmed that the company would continue to support the _3DS_ with more first-party and third-party games in the immediate future. Fils-Aimé assured that the _3DS_ "_has a long life in front of it_", and that Nintendo intends for it to co-exist with the Switch, while Kimishima considered the _3DS_ as an entry-level product for younger players. In June [2017](https://nintendo.fandom.com/wiki/2017), Fils-Aimé said they would be supporting the _3DS_ beyond [2018](https://nintendo.fandom.com/wiki/2018). In June 2018, Nintendo said that they were considering some possibilities for a successor to the _3DS_. In June [2019](https://nintendo.fandom.com/wiki/2019), Nintendo confirmed that first-party game development had ceased, but that the system would continue to be supported through the near future. With the unveiling of the [Nintendo Switch Lite](https://nintendo.fandom.com/wiki/Nintendo_Switch_Lite) — a lower-end version of the Switch console — Nintendo of America CEO [Doug Bowser](https://nintendo.fandom.com/wiki/Doug_Bowser) stated that the company still planned to continue supporting the _3DS_ family as long as there was still demand. In November 2019, Bowser reaffirmed that Nintendo would continue to support the _3DS_ into [2020](https://nintendo.fandom.com/wiki/2020), however, production ended on September 17 of the same year. As of September 30, 2020, the _3DS_ has sold 75.96 million units.
+
+- Hardware
+- Hardware Revisions
+- Technical specifications
+- Other variants
+- Interface
+- Games
+- History
+- Gallery
+- See also
+- Trivia
+
+
+
+* Hardware
+The top screen is widescreen and capable of displaying 3D graphics without the need for 3D glasses, while the bottom screen is a touch screen. The bottom screen is unable to display 3D graphics, as it would be impractical. While not confirmed, scratches may also have played a role in the omission of 3D on the bottom screen.
+
+The player can adjust the depth of the 3D via a 3D slider Nintendo implemented on the right side of the upper screen of the handheld. Nintendo has made statements that the 3D technology allows long periods of play without eyestrain.
+
+Nevertheless, they have discussed the possibilities of implementing a feature in games that suggests that players take a break every once in a while, like the Virtual Boy, and have reportedly suggested that third party developers do the same. Actually, *Super Street Fighter IV: 3D Edition* features that, telling the player immediately after starting the game from the *3DS* Menu that he/she must take a break after 10 minutes of play with 3D activated.
+
+The *3DS* contains several other enhancements over the previous Nintendo handhelds. The DSi and DSi XL both had a camera built on the inside and outside of the system. This returns with the *3DS*, though this time, there are 2 lenses on the outside camera, with both of them being only slightly separated so that, when the player takes a picture, it can be viewed in 3D. The inside camera is now stationed above the top screen rather than on the hinge (as with the DSi and DSi XL) and can still only take 2D pictures. As of December 2011, the *3DS* is also capable of recording 3D videos up to 10 minutes long.
+
+Another thing on the *3DS* is the Circle Pad. Similar to an analog stick, the circle pad is the first of its kind on a Nintendo handheld. The standard buttons present on the Nintendo DS are also on the *3DS*, including the face buttons (A, B, X, Y), Start and Select, the D-Pad, and the shoulder buttons (L and R). A new button called the HOME button, similar to the one featured on the [Wii Remote](https://nintendo.fandom.com/wiki/Wii_Remote "Wii Remote"), allows players to instantly go to the *3DS*'s home menu and switch between other games & apps. Doing this will not stop the progress the player made in a video game as they are capable of going back to where they were by pressing the home button again.
+
+A motion sensor and a gyro sensor, similar to the ones featured in the Dualshock 3 controller, were incorporated into the Nintendo 3DS. With these two sensors, the *3DS* is efficiently capable of discerning the movements of the Nintendo 3DS. For example, in a racing game, the *3DS* would be able to apprehend that the player is rotating the handheld like a steering wheel. According to the system's developers, the sensors weren't included in the system until right before the Nintendo 3DS's unveiling at [E3 2010](https://nintendo.fandom.com/wiki/Electronic_Entertainment_Expo_2010 "Electronic Entertainment Expo 2010"), noting the consensus of the company that something in the system was lacking.
+
+- Features
+- 3D Effects
+- System and Feature Updates
+
+
+* Features
+Two new welcome additions to the Nintendo 3DS are [StreetPass](https://nintendo.fandom.com/wiki/StreetPass "StreetPass") and [SpotPass](https://nintendo.fandom.com/wiki/SpotPass "SpotPass"). When in sleep mode, StreetPass on the *3DS* can gather information from other *3DS* owners when it enters its range, no matter if it's on the pocket, wallet, or even a backpack. With this feature enabled, players can receive the other *3DS* owner's [Miis](https://nintendo.fandom.com/wiki/Mii "Mii"), game information (such as high scores), and more just by passing them by on the street.
+
+Unlike *[Dragon Quest IX: Sentinels of the Starry Skies](https://nintendo.fandom.com/wiki/Dragon_Quest_IX:_Sentinels_of_the_Starry_Skies "Dragon Quest IX: Sentinels of the Starry Skies")*, a Nintendo DS game that required the game's cart to be in the *DS* and the mode activated, the *3DS*'s StreetPass allows for information exchanges to be performed on any game that the player owns, regardless of if they have it in the system or not. With SpotPass, the system is able to detect wireless hotspots and LAN access points of many public services such as restaurants, and automatically download content, updates and more to the system. This mode works both when the system is on or in sleep mode.
+
+There are several pre-installed applications on the Nintendo 3DS that can be accessed on the Home Menu. The *3DS*'s Home Menu is similar to the one present on the [Wii](https://nintendo.fandom.com/wiki/Wii "Wii") and DSi systems. Unlike the Wii's Home Menu, and like the DSi, separate applications are not referred to as "channels". The Home Menu can be accessed at all times by simply pressing the home button on the *3DS*, no matter if a *3DS* or [Virtual Console](https://nintendo.fandom.com/wiki/Virtual_Console "Virtual Console") game or an application (except the ones from the upper bar of the menu, like the Internet Browser) is running, without having data interrupted or erased. It can't, however, be accessed when playing *DS* or DSi games. There are also certain times in software when you cannot access the Home Menu, like the Wii (such as when a game is loading or saving or playing online modes of a game).
+
+The Miis, made famous with the Wii, are heavily featured on the *3DS*. The *DS* featured some games that made use of the Miis, such as *[Personal Trainer: Walking](https://nintendo.fandom.com/wiki/Personal_Trainer:_Walking "Personal Trainer: Walking")* but did not feature an integrated Mii application. The *3DS*'s Mii creation tool, titled [Mii Maker](https://nintendo.fandom.com/wiki/Mii_Maker "Mii Maker"), has numerous noteworthy enhancements over the Wii's [Mii Channel](https://nintendo.fandom.com/wiki/Mii_Channel "Mii Channel"). The most extraordinary new feature is the ability to take a picture of someone and have the Mii Maker automatically produce a Mii of that person (the player can subsequently make alterations if they prefer). In [StreetPass Mii Plaza](https://nintendo.fandom.com/wiki/StreetPass_Mii_Plaza "StreetPass Mii Plaza"), an application similar to the Wii's Mii Parade, Miis that have been obtained through StreetPass (see above) can be viewed there, with the image and name of the last game or app that they have used.
+
+In the [Nintendo eShop](https://nintendo.fandom.com/wiki/Nintendo_eShop "Nintendo eShop"), players can download classic [Game Boy](https://nintendo.fandom.com/wiki/Game_Boy "Game Boy"), and [Game Boy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color "Game Boy Color"), games as well as titles made specifically for the service. Games made available on [DSiWare](https://nintendo.fandom.com/wiki/DSiWare "DSiWare"), the Nintendo DSi's similar service, can also be purchased there. 3D remakes of classic [Nintendo Entertainment System](https://nintendo.fandom.com/wiki/Nintendo_Entertainment_System "Nintendo Entertainment System") video games, titled "3D Classics" will also be available for purchase through the eShop with enhanced graphics and, as the title says, 3D effects. There will also be select retail games available on the eShop; *[New Super Mario Bros. 2](https://nintendo.fandom.com/wiki/New_Super_Mario_Bros._2 "New Super Mario Bros. 2")* was the first one.
+
+In addition to the preloaded applications, there is a diverse set of preloaded video games that come with every Nintendo 3DS. Most of these video games are listed under [AR Games](https://nintendo.fandom.com/wiki/AR_Games "AR Games"), which is an Augmented Reality game/application that makes use of one of the six AR Cards that come with every unit, and the outer cameras, to make them appear on the screen and play interactive games and apps. In all, there are around 15 AR Games with all, but one having to be unlocked.
+
+Around half of the AR Games can only obtained by using Play Coins. [Face Raiders](https://nintendo.fandom.com/wiki/Face_Raiders "Face Raiders") is another game that comes included with the system. With it, the person's face (taken with the inner camera or the outer cameras) is placed in different headgear that must be destroyed in the environment they are, by rotating their bodies along with the *3DS* to find and destroy them. Two games that make use of StreetPass, [Find Mii](https://nintendo.fandom.com/wiki/Find_Mii_(3DS) "Find Mii (3DS)"), and [Puzzle Swap](https://nintendo.fandom.com/wiki/Puzzle_Swap "Puzzle Swap"), come pre-installed with each device, and can be found in the games section of the StreetPass Mii Plaza.
+
+Find Mii is an RPG style game where players try to escape a tower by battling enemies. The only way to get through the tower is by finding other player's Miis using StreetPass, as well as obtaining Play Coins to buy allies with cat-like rosters to beat the enemies. In Puzzle Swap, players try and finish a 3D puzzle by acquiring puzzle pieces using StreetPass, to show 3D landscapes based on Nintendo's popular franchises. The landscapes are based on the ones that were shown on one of the Nintendo 3DS demos of E3 2010. Nintendo 3DS Sound is also StreetPass enabled. With it, players can see which songs the other person listens to the most.
+
+The Nintendo 3DS promotes a healthy lifestyle by rewarding a player with [Play Coins](https://nintendo.fandom.com/wiki/Play_Coins "Play Coins") (1 Coin for every 100 steps, for a max of 300 Coins). There is also an application on the *3DS* called [Activity Log](https://nintendo.fandom.com/wiki/Activity_Log "Activity Log"); it records how many steps the player takes and keeps track of the games the user has played on their Nintendo 3DS, the amount of time spent on each game, the average time, the number of times played, the first time the game was played, and the last time it was played.
+
+
+
+* 3D Effects
+The 3D effect is the primary new feature of the Nintendo 3DS. Nintendo advises that, in order to view the 3D properly, the user holds the unit approximately 10 to 14 inches away from their eyes (25-35 centimeters). Each user has his or her own "sweet spot" that can be found by adjusting not only the depth of the 3D visuals, but also the height at which the *3DS* is held. There are three such spots, one at the center of the screen and two to either side.
+
+This seemingly unintended feature of the screen allows bystanders to watch the game in proper 3D. The depth of the 3D effects can be altered by using the 3D depth slider on the side of the system. Nintendo suggests that users should regularly take 15-minute breaks in order to rest their eyes. While Nintendo's official stance on the product is that it is entirely safe, they ask parents of children under the age of 7 to use the parental controls to restrict their children from viewing 3D images.
+
+Tilting the Nintendo 3DS at most angles while 3D is turned on will cause the viewer to lose the effect and see a distorted image. For this reason, Nintendo asks its users to look at the screen head on. Looking down at the touch screen and back up at the top screen should not cause strain for most people and will not cause the viewer to momentarily lose the 3D effect when they return to the top screen. Some people are unable to see 3D images for various reasons, whether it be poor eyesight or blindness in one eye. For this reason, Nintendo suggests that players with this problem turn 3D off.
+
+Licensed screen protectors used on the top screen, if used properly, will not diminish the 3D effects or the image produced. Nintendo notes that unlicensed products, having not been approved or disapproved by them, may cause the 3D images to recede.
+
+
+
+* System and Feature Updates
+Through [system updates](https://nintendo.fandom.com/wiki/Nintendo_3DS_system_updates), Nintendo will deliver improvements to the _3DS_. In order to receive the latest update from Nintendo, users are required to go to the System Settings menu on the _3DS_, touch "Other Settings" and go to page four where the user will find "System Update". After accepting the Terms of Agreement, the system will urge the player to charge the _3DS_ while the update is being downloaded.
+
+It takes several minutes for the update to download, though if it seems to have stopped, it is advised that the user turns the system off and try again. Updates may make minor enhancements to the _3DS_, include new features, or simply just block flash cartridges. An update which contained the eShop (among other things) was released on June 6, 2011.
+
+
+
+* Hardware Revisions
+- Nintendo 3DS XL
+- Nintendo 2DS
+- New Nintendo 3DS/New Nintendo 3DS XL
+- New Nintendo 2DS XL
+
+
+
+* Nintendo 3DS XL
+The **Nintendo 3DS XL** (called **Nintendo 3DS LL** in Japan and **iQue 3DS XL** in China) is the second version of the Nintendo 3DS handheld announced by [Satoru Iwata](https://nintendo.fandom.com/wiki/Satoru_Iwata) in a _Nintendo Direct_ video on June 21, [2012](https://nintendo.fandom.com/wiki/2012). Similarly to the DSi XL, the 3DS XL has larger screens: the upper measuring 124 mm (4.88 inches) and the lower measuring 106 mm (4.18 inches), both being 90% larger than the standard Nintendo 3DS's screens, making it tied to the New Nintendo 3DS XL as the biggest screen on a Nintendo handheld so far. The resolution, however, is the same. The _3DS_ XL also has been given rounded corners and digital home, select, and start buttons instead of the embedded ones found on the Nintendo 3DS. The handheld also sports a single-color job instead of the dual color job of its predecessor (black in the interior of the lid and a second main color overall), although it may also come with dual colors. Additionally, it is packaged with a 4 GB SD card, and the battery has been optimized to last longer. It lasts about 3.5 to six hours when playing _3DS_ games, compared to the three to five hours of play on the original version. The handheld was released in Japan and Europe on July 28, 2012, in North America on August 19, 2012 (same day as _New Super Mario Bros. 2_), and in Oceania (bundled with an AC adapter) on August 23, 2012. In Japan and Europe, the handheld does not come with a battery charger, but can use the original Nintendo 3DS/Nintendo DSi charger. The handheld has its own charger in North America, but it does not include the charging cradle packaged with the original _3DS_.
+
+The Nintendo 3DS XL model was discontinued on the same day as the previous model in Europe and Japan, but both models are still available elsewhere.
+
+
+
+* Nintendo 2DS
+The **Nintendo 2DS** is the third model in the _3DS_ family announced on August 28, [2013](https://nintendo.fandom.com/wiki/2013). Like the rest of the _3DS_ models, it can play most _DS_/DSi and all the _3DS_ games; however, unlike most of the _3DS_ models, it cannot display 3D images (hence the name) and is more sturdy, that make the system friendly for kids 6 and under, and both screens are touch-sensitive without a hinge separating them, with the top screen protected by a layer of plastic, while it features a tablet design rather than a clamshell design, making it the first handheld system since the original Game Boy Advance system to have a tablet design. The system's box includes the system, a stylus, an SDHC Card, a _3DS_ AC Adapter, and the six AR cards. It was released in North America, Europe, and Oceania on October 12th, 2013 at a price of $129.99 in the United States, €129.99 in Europe, and £129.99 in the United Kingdom in order to increase sales of upcoming _3DS_ games. The _2DS_ was released in Japan on February 27, [2016](https://nintendo.fandom.com/wiki/2016), at a cost of approximately 9,980 yen. Reception of the _2DS_ has been mixed. It was discontinued only in North America, as of February 8, 2020, but is still in production in other parts of the world.
+
+Other than the lack of a 3D screen, there are a few hardware nuances worth noting:
+
+The _2DS_ has a single speaker with monaural sound output as opposed to the dual speakers with stereo output on the _3DS_. Stereo output is supported on the _2DS_ via the headphone port.
+
+Sleep Mode works the same as on the _3DS_ models, but it's activated differently. Because the _2DS_ cannot be folded closed, a Sleep switch was added to the bottom-right corner of the console. Sliding this switch to the right causes the _2DS_ to enter sleep mode while sliding it to the left wakes up the system.
+
+Even though the _2DS_ cannot display 3D images, it is equipped with stereoscopic 3D cameras on the back of the console like all the other models. According to the user's manual, the purpose is to allow _2DS_ users to share photos via the SD card with _3DS_ users who can then view those images in 3D.
+
+There is no Circle Pad Pro compatible with the _2DS_.
+
+
+
+* New Nintendo 3DS/New Nintendo 3DS XL
+The **New Nintendo 3DS** and **New Nintendo 3DS XL** (called **New Nintendo 3DS LL** in Japan), announced on August 28, [2014](https://nintendo.fandom.com/wiki/2014), were the first hardware upgrades for the _3DS_ line of systems, similar to the DSi and DSi XL. Like the original _3DS_, the New 3DS also has an XL variant. They were released on October 11, 2014 in Japan, and on November 21, 2014 in Oceania, and in North America (XL model only) and Europe on February 13, [2015](https://nintendo.fandom.com/wiki/2015). On August 31, 2015, Nintendo of America announced that the regular-sized New 3DS would be released in North America on September 25, 2015 only in special bundles such as the [_Animal Crossing: Happy Home Designer_](https://nintendo.fandom.com/wiki/Animal_Crossing:_Happy_Home_Designer) and _Pokémon 20th Anniversary_ bundles. The system was never released by itself. Only the XL version was released in North America at launch; although Nintendo did not rule out the possibility of a release of the regular-sized New 3DS in the future, Nintendo of America representative Damon Baker explained that they did not want to confuse consumers, and that the face plates were not enough of a reason for the standard-sized system to be released in North America. A social media campaign emerged that called upon Nintendo of America to release the model in North America. In March 2015, the FCC lifted its information embargo regarding regulation details performed in September 2014 on the standard model, suggesting Nintendo of America did indeed consider releasing the standard model at one point. On January 6, 2015, selected European [Club Nintendo](https://nintendo.fandom.com/wiki/Club_Nintendo) owners were invited to buy New Nintendo 3DS Ambassador Edition, a special pre-release bundle of New 3DS, for €199.99, with orders shipped as early as January 7, 2015.
+
+In addition to having a more powerful CPU, the New 3DS features an improved 3D effect, using the system's gyroscope and cameras to track the location of the player's eyes to sustain the 3D effect. An NFC sensor is built-in under the bottom screen, allowing compatibility with the [amiibo](https://nintendo.fandom.com/wiki/Amiibo) line of products without needing the stand peripheral. Two additional shoulder buttons (ZL and ZR) have been added, alongside the C Stick, a second smaller Circle Pad positioned above the A, B, X, and Y buttons, which shares a similar function with the Circle Pad Pro when added to the original 3DSor 3DS XL. The START and SELECT buttons have been moved under the A, B, X, and Y buttons, similar to the [DS Lite](https://nintendo.fandom.com/wiki/Nintendo_DS_Lite) and DSi. In addition, the cartridge and stylus slots have been moved to the bottom of the handheld, and the SD card slot has been replaced by a micro SD slot on the back of the system which can only be accessed by removing the bottom cover where the battery is located. The new systems continue to use the same AC adapter as the DSi, DSi XL, and the other devices in the _3DS_ family; like the original 3DS XL in Japan and Europe, and for the first time in North America, an AC adapter is not included with the console and must be obtained separately.
+
+Similar to the [Game Boy Micro](https://nintendo.fandom.com/wiki/Game_Boy_Micro), the standard model features removable back covers on the backs of the top and bottom screens, which can be replaced with custom covers purchased separately. This is not possible with the XL model, mostly due to size differences. The models also feature some changes to the Internet application in that it can now play HTML5 videos. The Japanese New 3DS models have a web filter pre-activated which can only be removed by paying 30 yen, but the preactivated filter is absent on the non-Japanese models. Certain games, such as [_Xenoblade Chronicles 3D_](https://nintendo.fandom.com/wiki/Xenoblade_Chronicles_3D), are exclusive to the New 3DS systems, and are incompatible with any of the older models. As of March 2016, [SNES](https://nintendo.fandom.com/wiki/Super_Nintendo_Entertainment_System) games such as [_Super Mario World_](https://nintendo.fandom.com/wiki/Super_Mario_World) and the [_Donkey Kong Country_ trilogy](https://nintendo.fandom.com/wiki/Donkey_Kong_Country_(series) "Donkey Kong Country (series)") have also been released exclusively on the New 3DS's Virtual Console.
+
+Japan and Europe discontinued the standard-sized New 3DS on July 14, 2017. The XL version was discontinued in Europe on December 30, 2017 and in Japan on July 25, 2019, but both models are still in production in some countries.
+
+
+
+* New Nintendo 2DS XL
+The **New Nintendo 2DS XL** (called **New Nintendo 2DS LL** in Japan), announced on April 27, 2017, is a revision of the Nintendo 3DS released in Oceania on June 15, 2017, Japan and South Korea on July 13, 2017, and in Europe and North America on July 28, 2017. It is the sixth and final model in the _3DS_ family as well as the latest handheld console. As the name implies, it shares the same clamshell design, size and enhanced CPU capabilities as the New Nintendo 3DS XL. Like the Nintendo 2DS, however, it cannot display games in 3D. The New 2DS XL also includes the C-stick, ZL and ZR shoulder buttons in the same button layout, but unlike the New Nintendo 3DS XL, the front-facing camera and microphone are now positioned on the hinge of the New 2DS XL, like the DSi. The New 2DS XL was released in a Black + Turquoise color scheme in North America, and in two color schemes in Japan, Europe, and Oceania: Black + Turquoise, and White + Orange. The White + Orange color scheme was later released in North America on October 6, 2017. It was discontinued worldwide on September 17, 2020.
+
+
+
+* Technical specifications
+Nintendo 3DS old/first model:
+
+*   Weight: 230g, or 8 ounces (note: original DS weighs 274g). This weight includes the battery pack, stylus, and SD card.
+*   Dimensions: 2.9 inches high, 5.3 inches long, 0.8 inches deep 130x74x20 mm (this is less than the DS Lite's dimensions).
+*   Screen: Top screen : 3.53 inches display (3.02 inches wide, 1.81 inches high) with 800 x 240 pixel resolution. Every other vertical line is used for each eye in 3D mode, giving an effective resolution of 400 x 240. Wide-screen autostereoscopic LCD display. 16.77 million colors. Bottom screen : 3.02 inches (2.42 inches wide, 1.81 inches high) with 320 x 240 pixel resolution. LCD touch screen. 16.77 million colors.
+*   Palette: 24-bit RGB (16,777,216 colors).
+*   Battery: 3–8 hours, lifespan will decrease the more it is used, time span depends largely on the screen brightness, which game is being played, and the depth of the 3D images.
+*   Wireless communication: 2.4 GHz. Can exchange data with other 3DS units through SpotPass and StreetPass. Can connect to the internet via wireless LAN access points (compatible with WPA/WPA2 IEEE802.11b/g security).
+*   Cartridges: Cartridges during the beginning of the 3DS' s life span can store up to 2 GigaBytes of information.
+*   GPU: DMP Pica200 IP core.
+*   Camera: 
+    Internal: One internal camera, resolution is 640 x 480 (0.3 megapixels).
+    External: Two external cameras for creating 3D images, resolution is 640 x 480 (0.3 megapixels).
+*   Controls: Four face buttons (A, B, X, Y), two shoulder buttons (L and R), 1 D-Pad, 1 Circle Pad (analog stick), a Touchscreen (lower screen), Accelerometer, Gyro Sensor, Start and Select buttons, power button, three cameras, volume and 3D depth control, and home button. Stylus is telescoping and is 100mm when extended.
+*   Nintendo 3DS battery pack.
+*   Cord length: Approximately 1.9 m.
+
+- System Colors History
+- Hardware Revisions
+
+
+
+* System Colors History
+When the *3DS* were first released, the only available colors are **Aqua Blue** and **Cosmos Black**. In August 2011, the new colour, **Flame Red**, which is sometimes called Flare red or Metallic red depending on the region, was released. **Pearl Pink**, which is sometimes known as Coral pink or Misty pink, was first released in Europe in November 18, 2011, and was released in North America the following year - it may be bundled with *[Nintendogs + Cats](https://nintendo.fandom.com/wiki/Nintendogs_%2B_Cats "Nintendogs + Cats")*. 
+
+**Ice White **was also released in December 2, 2011, but not in North America - sometimes bundled with *[Super Mario 3D Land](https://nintendo.fandom.com/wiki/Super_Mario_3D_Land "Super Mario 3D Land")*. In April 22, 2012, **Cobalt Blue** was released exclusively in Japan as a replacement for Aqua - it is darker and brighter than Aqua. In May 20, 2012, **Midnight Purple** was released exclusively in North America. In Asian regions, near China, Japan, and Korea, **Cerulean Blue **and **Shimmer Pink **was released in September 28, 2012. Cerulean blue is lighter shade of blue and Shimmer pink is magenta/fuchsia, like dark pink.
+
+
+
+* Other variants
+Along with the various color choices, Nintendo has released special editions, featuring images and decorative symbols, often bundled with games. There are at least 52 limited editions of the _3DS_. Here are some special editions for the following games:
+
+[_The Legend of Zelda: Ocarina of Time 3D_](https://nintendo.fandom.com/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_3D) - black-brown with yellow decoration.
+
+[_The Legend of Zelda: A Link Between Worlds_](https://nintendo.fandom.com/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds) - gold-black with a triforce
+
+_Monster Hunter Tri G_ - white with red decoration.
+
+[_Kingdom Hearts 3D: Dream Drop Distance_](https://nintendo.fandom.com/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance) - black-grey with black decoration.
+
+[_Fire Emblem Awakening_](https://nintendo.fandom.com/wiki/Fire_Emblem_Awakening) - cobalt blue with white decoration.
+
+[_Dragon Quest Monsters: Terry's Wonderland 3D_](https://nintendo.fandom.com/wiki/Dragon_Quest_Monsters:_Terry%27s_Wonderland_3D) - white with cyan-blue decoration.
+
+[_Metal Gear Solid: Snake Eater 3D_](https://nintendo.fandom.com/wiki/Metal_Gear_Solid:_Snake_Eater_3D) - black with snake skin.
+
+[_Animal Crossing: New Leaf_](https://nintendo.fandom.com/wiki/Animal_Crossing:_New_Leaf) - White in color, decorated with various colored leaves
+
+_Shin Megami Tensei IV_ - White with black silhouette decoration
+
+Charizard Special Edition - Black with white outline of Charizard
+
+There were also three Mario-themed editions exclusive to Club Nintendo of Japan and Europe. A [Pikachu](https://nintendo.fandom.com/wiki/Pikachu) themed 3DS XL, called Pikachu Yellow, was also sold at Pokémon Centers in Japan.
+
+
+
+* Interface
+When the system is turned on, the first thing that the player will notice (if played on an older _DS_ before) is that there is no health and safety information notice, but instead, a health and safety information application on the menu. The menu looks like the DSi menu at first, but this can be changed with the little square icons in the top of the bottom screen.
+
+There are also several other icons, being a dimmer and brighter feature, a menu size feature, a friends application, notifications, notes, and the browser. Most of the applications from the DSi are the same on the _3DS_. When a game/application is selected (the green box is encompassing its icon), it's logo as well as something from the game/application will appear on the top screen. _DS_ and DSi games only show the icon on the top screen.
+
+When starting a _DS_ or DSi game, if the Start or Select button is held down, the game will be shown in its native resolution, though the game will appear smaller.
+
+
+
+* Games
+See main article: *[List of Nintendo 3DS games](https://nintendo.fandom.com/wiki/List_of_Nintendo_3DS_games "List of Nintendo 3DS games")*.
+
+- Top Ten Best-Selling 3DS Games
+
+
+
+* Top Ten Best-Selling 3DS Games
+*   *[Pokémon X and Y](https://nintendo.fandom.com/wiki/Pok%C3%A9mon_X_and_Y "Pokémon X and Y")* (2013)
+
+*   *[Mario Kart 7](https://nintendo.fandom.com/wiki/Mario_Kart_7 "Mario Kart 7")* (2011)
+
+*   *Super Mario 3D Land* (2011)
+
+*   *Nintendogs + Cats* (2011)
+
+*   *[Monster Hunter 3G](https://nintendo.fandom.com/wiki/Monster_Hunter_3G "Monster Hunter 3G")* (2011)
+
+*   *[New Super Mario Bros. 2](https://nintendo.fandom.com/wiki/New_Super_Mario_Bros._2 "New Super Mario Bros. 2")* (2012)
+
+*   *Animal Crossing: New Leaf* (2012-2013)
+
+*   *[Luigi's Mansion: Dark Moon](https://nintendo.fandom.com/wiki/Luigi%27s_Mansion:_Dark_Moon "Luigi's Mansion: Dark Moon")* (2013)
+
+*   *[Monster Hunter 4](https://nintendo.fandom.com/wiki/Monster_Hunter_4 "Monster Hunter 4")* (2013)
+
+*   *[Tomodachi Life](https://nintendo.fandom.com/wiki/Tomodachi_Life "Tomodachi Life")* (2013)
+
+*   *Youkai Watch 2: Ganso and Hanke* (2014)
+
+*   *[Pokémon Omega Ruby and Alpha Sapphire](https://nintendo.fandom.com/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire "Pokémon Omega Ruby and Alpha Sapphire")* (2014)
+
+*   *[Super Smash Bros. for Nintendo 3DS](https://nintendo.fandom.com/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U "Super Smash Bros. for Nintendo 3DS and Wii U") * (2014)
+
+*   *The Legend of Zelda: Ocarina of Time 3D* (2011)
+
+*   *The Legend of Zelda: A Link Between Worlds* (2013)
+
+
+
+* History
+- 3D Beginnings
+- Development
+
+
+
+* 3D Beginnings
+On several occasions Nintendo has experimented with 3D technology. Overall, the several attempts had mixed results critically and commercially. Nintendo's first descent into 3D was as early as the [Famicom](https://nintendo.fandom.com/wiki/Nintendo_Entertainment_System) era when they released the [Famicom 3D System](https://nintendo.fandom.com/wiki/Famicom_3D_System) in [Japan](https://nintendo.fandom.com/wiki/Japan). A clunky accessory that players were required to place on their head, the 3D System was used in very few games.
+
+In fact, of the games released, Nintendo only published one title that made use of the accessory called [_Famicom Grand Prix II: 3D Hot Rally_](https://nintendo.fandom.com/wiki/Famicom_Grand_Prix_II:_3D_Hot_Rally). Other titles released that were 3D System enabled include [_Highway Star_](https://nintendo.fandom.com/wiki/Highway_Star) (_Rad Racer_ in Western countries) and _Falsion_. The device was ultimately a failure, with numerous consumers complaining about the motion sickness they experienced when wearing the goggles. This, in addition to the dismal support it received from developers including Nintendo, led to its cancellation. It was never released outside of Japan.
+
+Not one to give up, Nintendo president [Hiroshi Yamauchi](https://nintendo.fandom.com/wiki/Hiroshi_Yamauchi), who always wanted the objects in video games to pop out at the player, continued investing money in 3D technology. [Gunpei Yokoi](https://nintendo.fandom.com/wiki/Gunpei_Yokoi) was the lead designer in the next project, titled the [Virtual Boy](https://nintendo.fandom.com/wiki/Virtual_Boy). The Virtual Boy was an interesting project but failed for several reasons. Yamauchi conclusively saw a larger chance of success in the [Nintendo 64](https://nintendo.fandom.com/wiki/Nintendo_64) and diverted most of his attention, manpower and money to that product while almost anticipating a certain doom for the less appealing, unsightly and awkward Virtual Boy. Despite a nice sized marketing campaign, the Virtual Boy was discontinued in less than a year. In anticipation of the _3DS_ launch, president [Satoru Iwata](https://nintendo.fandom.com/wiki/Satoru_Iwata) surprisingly discussed the Virtual Boy with lead designer [Shigeru Miyamoto](https://nintendo.fandom.com/wiki/Shigeru_Miyamoto).
+
+The two shared their thoughts on the device and Miyamoto concluded that one of the reasons the Virtual Boy failed was because it didn't share the same technology with the superior Nintendo 64. He said that the Nintendo 64 was meant to "confront 3D head-on", while the "Virtual Boy was using different technology to aim at enjoyment of 3D without rushing in the general direction 3D was headed at the time." He went on to say that the wire frames that the Virtual Boy employed "weren't terribly appealing", saying that he thought initially about using them for the Nintendo 64, but abandoned the idea when he realized that they didn't work well for video games. Iwata also recognized that the red-and-black visuals were also a detriment to the system.
+
+Since then, Nintendo experimented with 3D in several instances but never released the products to the market. Every [Nintendo GameCube](https://nintendo.fandom.com/wiki/Nintendo_GameCube) is 3D ready. However, no accessory was released or even announced that made use of the GameCube's capabilities. This fact was revealed years after the GameCube was discontinued, and it was also reported that [_Luigi's Mansion_](https://nintendo.fandom.com/wiki/Luigi%27s_Mansion_(video_game) _"Luigi's Mansion (video game)")_, a launch title for the system, actually has 3D capability. However, this functionality was never enabled outside of development.
+
+It's interesting to note that [Hideki Konno](https://nintendo.fandom.com/wiki/Hideki_Konno), the product producer of the _3DS_, was also the director of _Luigi's Mansion_. Iwata noted that, had they released an accessory for the GameCube that took advantage of its potentiality, it would have been more expensive than the system itself. Soon after this, the designers of the [Game Boy Advance SP](https://nintendo.fandom.com/wiki/Game_Boy_Advance_SP) merely examined the possibilities of 3D without special glasses for the handheld, but decided against the idea when they discovered that the resolution of LCD was too low at the time, which would have lessened the effect of the 3D stereoscopic visuals.
+
+More recently, Hiroshi Yamauchi enquired about the possibilities of adding some kind of 3D effects to Shigureden, a display focusing on Hyakunin Isshu playing cards that Nintendo assisted in the development of. Ultimately, the designers didn't have enough time when it came to creating such an effect for the exhibit and thus deserted the idea. Miyamoto, who was involved in the creation of the Shigureden, stated that even though they didn't manage to create something special for the exhibition, he and the rest of Nintendo managed to learn a lot about 3D in the process, which assisted in the development of the _3DS_.
+
+
+
+* Development
+Konno was the producer of the _3DS_.
+
+Nintendo claims that they begin development on their next system before the current system has even been released. This is true with the _3DS_, as the designers have claimed that they began performing research into the next product. At the time, the developers had no clue whether or not the Nintendo DS would be a success, and thus planned a successor with two screens in the event that it succeeded and another with one screen in the event that it failed. Clearly, with the unanticipated and unprecedented success of the Nintendo DS, Nintendo went on with their plans in developing a second dual screened handheld.
+
+In the summer of [2008](https://nintendo.fandom.com/wiki/2008), Hideki Konno came on board as the overall producer of the Nintendo 3DS. He is well known as the producer of such titles as [_Mario Kart_](https://nintendo.fandom.com/wiki/Mario_Kart_(series) _"Mario Kart (series)")_ and [_Nintendogs_](https://nintendo.fandom.com/wiki/Nintendogs), and continued this role with the _3DS_ variations of these titles as well. He revealed that this occurred shortly after the completion of [_Mario Kart Wii_](https://nintendo.fandom.com/wiki/Mario_Kart_Wii) on the [Wii](https://nintendo.fandom.com/wiki/Wii) system. According to him, Shigeru Miyamoto approached him and asked him to be involved in the creation of [Nintendo DSi Sound](https://nintendo.fandom.com/wiki/Nintendo_DSi_Sound), a sound application built into the Nintendo DSi and subsequently the Nintendo DSi XL.
+
+Soon after Nintendo DSi Sound was completed, Miyamoto went up to him once more and offered him the role of producer on the new Nintendo 3DS. This would have been the first time that Konno was ever involved in an actual piece of hardware, though he notes that he has always been interested in handheld gadgets.
+
+Like the handhelds preceding it, the Nintendo 3DS was developed by [Nintendo Research and Engineering](https://nintendo.fandom.com/wiki/Nintendo_Research_and_Engineering). The team was formed during the inception of the Game Boy Color and has been the primary architects of Nintendo handhelds ever since. [Kenichi Sugino](https://nintendo.fandom.com/wiki/Kenichi_Sugino), the manager of the Design Group at Nintendo R&E, was responsible for the look of the Nintendo 3DS. He has been involved in several of Nintendo's previous handhelds in addition to the Virtual Boy. According to him, they made the _3DS_ as small as they possibly could, which is why they didn't have any immediate plans for a smaller successor (as they did with the Nintendo DS and DS Lite).
+
+When approached about the possibility of 3D with the new system, Sugino was instantly opposed to the idea, saying that past experiences with 3D experimentation had made him traumatized. His fears were compressed, however, when he saw a demo of _Mario Kart Wii_ in 3D without glasses. Ryuji Umezu, another project director, said he was shocked when he was approached about the idea of not only 3D, but also the addition of the stereoscopic LCD as well.
+
+
+
+* Gallery
+*Main article: [Nintendo 3DS/gallery](https://nintendo.fandom.com/wiki/Nintendo_3DS/gallery "Nintendo 3DS/gallery")*
+
+
+
+* See also
+*   [Response of the Nintendo 3DS announcement](https://nintendo.fandom.com/wiki/Response_of_the_Nintendo_3DS_announcement "Response of the Nintendo 3DS announcement") - Developers, critics and analysts' opinions on the *3DS* announcement.
+
+*   [Nintendo 3DS Browser](https://nintendo.fandom.com/wiki/Nintendo_3DS_Browser "Nintendo 3DS Browser")
+
+*   [Nintendo 3DS Camera](https://nintendo.fandom.com/wiki/Nintendo_3DS_Camera "Nintendo 3DS Camera")
+
+*   [Nintendo 3DS Sound](https://nintendo.fandom.com/wiki/Nintendo_3DS_Sound "Nintendo 3DS Sound")
+
+*   [Nintendo DS](https://nintendo.fandom.com/wiki/Nintendo_DS "Nintendo DS") (Predecessor)
+
+*   [Nintendo 3DS XL](https://nintendo.fandom.com/wiki/Nintendo_3DS_XL "Nintendo 3DS XL") (Redesign)
+
+*   [Nintendo 2DS](https://nintendo.fandom.com/wiki/Nintendo_2DS "Nintendo 2DS") (Redesign)
+
+*   [New Nintendo 3DS](https://nintendo.fandom.com/wiki/New_Nintendo_3DS "New Nintendo 3DS") (Redesign)
+
+*   [New Nintendo 3DS XL](https://nintendo.fandom.com/wiki/New_Nintendo_3DS "New Nintendo 3DS") (Redesign)
+
+*   [New Nintendo 2DS XL](https://nintendo.fandom.com/wiki/New_Nintendo_2DS_XL "New Nintendo 2DS XL") (Redesign)
+
+*   [Nintendo Switch](https://nintendo.fandom.com/wiki/Nintendo_Switch "Nintendo Switch") (Successor)
+
+
+
+* Trivia
+*   This is the first Nintendo handheld console (not counting the Nintendo DSi) since the [Game Boy Color](https://nintendo.fandom.com/wiki/Game_Boy_Color "Game Boy Color") not to feature a *Mario* game on its launch date.
+
+*   The New 3DS and New 3DS XL were released ten days after the DSi and DSi XL were discontinued.
+
+*   This is the first system whose *[Mario Tennis](https://nintendo.fandom.com/wiki/Mario_Tennis_(series) "Mario Tennis (series)")* game was released before its *[Mario Golf](https://nintendo.fandom.com/wiki/Mario_Golf_(series) "Mario Golf (series)")* game.
